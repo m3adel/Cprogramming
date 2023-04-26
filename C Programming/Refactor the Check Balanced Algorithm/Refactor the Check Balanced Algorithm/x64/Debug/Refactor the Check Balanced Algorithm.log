@@ -1,0 +1,11 @@
+﻿  balanced.c
+D:\sprints\Tasks\sprint_2\Task4\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\balanced.c(6,16): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+  main.c
+  stack.c
+  test.c
+D:\sprints\Tasks\sprint_2\Task4\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\test.c(53,9): warning C4013: 'gets' undefined; assuming extern returning int
+D:\sprints\Tasks\sprint_2\Task4\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\test.c(54,59): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'int8_t (*)[30]'
+D:\sprints\Tasks\sprint_2\Task4\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\test.c(54,48): warning C4024: 'isBalancedParanthethes': different types for formal and actual parameter 1
+  Generating Code...
+D:\sprints\Tasks\sprint_2\Task4\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\balanced.c(65): warning C4715: 'isBalancedParanthethes': not all control paths return a value
+  Refactor the Check Balanced Algorithm.vcxproj -> D:\sprints\Tasks\sprint_2\Task4\Refactor the Check Balanced Algorithm\Refactor the Check Balanced Algorithm\x64\Debug\Refactor the Check Balanced Algorithm.exe

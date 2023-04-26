@@ -1,0 +1,12 @@
+﻿  Game.c
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(73,30): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t (*)[2]'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(73,18): warning C4024: 'setPlayerConfig': different types for formal and actual parameter 1
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(74,18): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t (*)[9]'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(74,12): warning C4024: 'drawBoard': different types for formal and actual parameter 1
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(79,19): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t (*)[9]'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(79,13): warning C4024: 'drawBoard': different types for formal and actual parameter 1
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(80,22): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t (*)[9]'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(80,16): warning C4024: 'getGameState': different types for formal and actual parameter 1
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(211,20): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t (*)[9]'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(211,14): warning C4024: 'updateBoard': different types for formal and actual parameter 1
+  X-O _Game.vcxproj -> D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\x64\Debug\X-O _Game.exe

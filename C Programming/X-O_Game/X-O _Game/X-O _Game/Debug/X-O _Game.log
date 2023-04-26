@@ -1,0 +1,14 @@
+﻿  Game.c
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(18,30): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t (*)[2]'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(18,18): warning C4024: 'setPlayerConfig': different types for formal and actual parameter 1
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(89,8): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(89,8): message : consider using '%hhi' in the format string
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(93,49): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t **'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(93,37): warning C4024: 'getPlayerSymbol': different types for formal and actual parameter 2
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(99,42): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t **'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(99,30): warning C4024: 'getPlayerSymbol': different types for formal and actual parameter 2
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(108,49): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t **'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(108,37): warning C4024: 'getPlayerSymbol': different types for formal and actual parameter 2
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(114,42): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'uint8_t **'
+D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\X-O _Game\Game.c(114,30): warning C4024: 'getPlayerSymbol': different types for formal and actual parameter 2
+  X-O _Game.vcxproj -> D:\sprints\Tasks\sprint_2\Task1\X-O_Game\X-O _Game\Debug\X-O _Game.exe

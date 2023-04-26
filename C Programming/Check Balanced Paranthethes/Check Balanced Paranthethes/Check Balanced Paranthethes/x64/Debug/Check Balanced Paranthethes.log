@@ -1,0 +1,7 @@
+﻿  main.c
+D:\sprints\Tasks\sprint_2\Task2\Check Balanced Paranthethes\Check Balanced Paranthethes\main.c(101,16): warning C4267: 'initializing': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\sprints\Tasks\sprint_2\Task2\Check Balanced Paranthethes\Check Balanced Paranthethes\main.c(202,3): warning C4013: 'gets' undefined; assuming extern returning int
+D:\sprints\Tasks\sprint_2\Task2\Check Balanced Paranthethes\Check Balanced Paranthethes\main.c(203,53): warning C4047: 'function': 'uint8_t *' differs in levels of indirection from 'sint8_t (*)[30]'
+D:\sprints\Tasks\sprint_2\Task2\Check Balanced Paranthethes\Check Balanced Paranthethes\main.c(203,42): warning C4024: 'isBalancedParanthethes': different types for formal and actual parameter 1
+D:\sprints\Tasks\sprint_2\Task2\Check Balanced Paranthethes\Check Balanced Paranthethes\main.c(151): warning C4715: 'isBalancedParanthethes': not all control paths return a value
+  Check Balanced Paranthethes.vcxproj -> D:\sprints\Tasks\sprint_2\Task2\Check Balanced Paranthethes\x64\Debug\Check Balanced Paranthethes.exe
